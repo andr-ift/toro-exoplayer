@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from X:\zyper\zyper-git4\toro-exoplayer\src\main\AndroidManifest.xml:17:1-44
+INJECTED from X:\zyper\zyper-git4\toro-exoplayer\src\main\AndroidManifest.xml:17:1-44
+INJECTED from X:\zyper\zyper-git4\toro-exoplayer\src\main\AndroidManifest.xml:17:1-44
+	package
+		ADDED from X:\zyper\zyper-git4\toro-exoplayer\src\main\AndroidManifest.xml:17:11-42
+		INJECTED from X:\zyper\zyper-git4\toro-exoplayer\src\main\AndroidManifest.xml
+		INJECTED from X:\zyper\zyper-git4\toro-exoplayer\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from X:\zyper\zyper-git4\toro-exoplayer\src\main\AndroidManifest.xml:17:1-44
+uses-sdk
+INJECTED from X:\zyper\zyper-git4\toro-exoplayer\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from X:\zyper\zyper-git4\toro-exoplayer\src\main\AndroidManifest.xml
+INJECTED from X:\zyper\zyper-git4\toro-exoplayer\src\main\AndroidManifest.xml
+INJECTED from X:\zyper\zyper-git4\toro-exoplayer\src\main\AndroidManifest.xml
+INJECTED from X:\zyper\zyper-git4\toro-exoplayer\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from X:\zyper\zyper-git4\toro-exoplayer\src\main\AndroidManifest.xml
+		ADDED from X:\zyper\zyper-git4\toro-exoplayer\src\main\AndroidManifest.xml
+		INJECTED from X:\zyper\zyper-git4\toro-exoplayer\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from X:\zyper\zyper-git4\toro-exoplayer\src\main\AndroidManifest.xml
+		ADDED from X:\zyper\zyper-git4\toro-exoplayer\src\main\AndroidManifest.xml
+		INJECTED from X:\zyper\zyper-git4\toro-exoplayer\src\main\AndroidManifest.xml
